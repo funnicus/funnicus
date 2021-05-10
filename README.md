@@ -1,4 +1,11 @@
-### I'm an engineer :sunglasses:
+# Hello, I'm Juhana
+
+I mostly code stuff with **JavaScript/TypeScript**. I often use them with React and Node.js. I have also picked up interest in lower level programming with languages such as **Rust** 🦀 and **C**.
+
+Currrently, I'm volunteering at **Digit ry**, developing their new [site](https://alpha.digit.fi/) with @kumpmati among other things. I am also part of @kvanttori-oy, a small webdev business we are going to start with our friends, (since many of us didn't get a summer internships for obvious reasons)!
+
+### if you're interested, my...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funnicus&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **funnicus/funnicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
