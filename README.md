@@ -2,7 +2,7 @@
 
 I mostly code stuff with **JavaScript/TypeScript**. I often use them with React and Node.js. I have also picked up interest in lower level programming with languages such as **Rust** 🦀 and **C**.
 
-Currrently, I'm volunteering at **Digit ry** as a Webmaster, developing their new [site](https://alpha.digit.fi/) with @kumpmati among other things. I am also part of [@KvanttoriOy](https://github.com/KvanttoriOy), a small webdev business we are going to start with our friends, (since many of us didn't get a summer internships for obvious reasons)!
+Currrently, I'm volunteering at **Digit ry** as a Webmaster, developing their new [site](https://alpha.digit.fi/) with @kumpmati among other things. I am also part of [@KvanttoriOy](https://github.com/KvanttoriOy), a small software business we are going to start with our friends, (since many of us didn't get a summer internships for obvious reasons)! As of now, we probably will mostly do web stuff, but who knows what the future will hold for us? If you're interested in our services, you can contact us [here](https://kvanttori.fi/contact)!
 
 Visit my [site](https://www.juhanakuparinen.dev/) for more information about me🙂
 
