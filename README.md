@@ -6,8 +6,9 @@ Currrently, I'm volunteering at **Digit ry** as a Webmaster, developing their ne
 
 Visit my [site](https://www.juhanakuparinen.dev/) for more information about me🙂
 
-### if you're interested, my...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funnicus&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### if you're interested, some stats about me...
+
+![Metrics](https://metrics.lecoq.io/funnicus?template=classic&languages=1&introduction=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Europe%2FHelsinki)
 
 <!--
 **funnicus/funnicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
