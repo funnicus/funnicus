@@ -2,9 +2,9 @@
 
 I mostly code stuff with **JavaScript/TypeScript**. I often use them with React and Node.js. I have also picked up interest in lower level programming with languages such as **Rust** 🦀 and **C**.
 
-I am a Co-Founder [@KvanttoriOy](https://github.com/KvanttoriOy), a small software business I started with my friends last summer! As of now, we certainly will mostly do web stuff, but who knows what the future will hold for us? If you're interested in our services, you can contact us [here](https://kvanttori.fi/contact)!
+I am a Co-Founder [@KvanttoriOy](https://github.com/KvanttoriOy), a small software business I started with my friends summer 2021! As of now, we certainly will mostly do web stuff, but who knows what the future will hold for us? If you're interested in our services, you can contact us [here](https://kvanttori.fi/contact)!
 
-Visit my [site](https://www.juhanakuparinen.dev/) for more information about me. You can also read my blog there🙂
+Visit my [site](https://www.juhanakuparinen.dev/) for more information about me. You can also read my blog there🙂 Currently employed as a Software Developer trainee @futurice.
 
 ### if you're interested, some stats about me...
 
