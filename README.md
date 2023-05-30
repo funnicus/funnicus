@@ -6,10 +6,6 @@ I am a Co-Founder [@KvanttoriOy](https://github.com/KvanttoriOy), a small softwa
 
 Visit my [site](https://www.juhanakuparinen.dev/) for more information about me. You can also read my blog there🙂
 
-### if you're interested, some stats about me...
-
-![Metrics](/github-metrics.svg)
-
 <!--
 **funnicus/funnicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
