@@ -12,6 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
+      - run: echo "$GITHUB_CONTEXT"
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
