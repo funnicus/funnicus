@@ -12,10 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: "Echo in file"
-        env:
-          SECRETS_VARS: ${{ toJson(secrets) }}
-        run: echo "$SECRETS_VARS" > "secrets.txt"
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
