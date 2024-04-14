@@ -4,7 +4,7 @@ I mostly code stuff with **JavaScript/TypeScript**. I often use them with React 
 
 I am a Co-Founder [@KvanttoriOy](https://github.com/KvanttoriOy), a small software business I started with my friends summer 2021! As of now, we certainly will mostly do web stuff, but who knows what the future will hold for us? If you're interested in our services, you can contact us [here](https://kvanttori.fi/contact)!
 
-Visit my [site](https://www.juhanakuparinen.dev/) for more information about me.
+Visit my [site](https://www.juhana.wtf/) for more information about me.
 
 <!--
 **funnicus/funnicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
