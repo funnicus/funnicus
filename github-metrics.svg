@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="772" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="825" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1155 Commits
+                            292 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -295,9 +295,9 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">61d243f7</span>
-                            <span class="code">levels/1.tres</span>
+                            <span class="code">ui/game_over/game_over.gd</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
+                                <span class="snippet additions">++3</span>
                                 <span class="snippet deletions">--1</span>
                             </span>
                         </div>
@@ -306,14 +306,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,5 +7,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[resource]<br /></span><span class="token prefix unchanged">·</span><span class="token line">script = ExtResource("3_qfjhm")<br /></span><span class="token prefix unchanged">·</span><span class="token line">mobs = Array[PackedScene]([ExtResource("1_cbve1"), ExtResource("2_6k4wy"), ExtResource("1_cbve1")])<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">spawn_rate = 0.25<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">spawn_rate = 1.0<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">duration = 60.0</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,7 +3,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">@onready var final_score: Label = $BoxContainer/VBoxContainer/FinalScore<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">func _on_button_pressed():<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">get_tree().quit()<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">hide()<br /></span><span class="token prefix inserted">+</span><span class="token line">Globals.reset_global_state()<br /></span><span class="token prefix inserted">+</span><span class="token line">get_tree().change_scene_to_file("res://ui/main_menu/main_menu.tscn")<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">func _process(delta):<br /></span><span class="token prefix unchanged">·</span><span class="token line">if Globals.game_over:</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Dec 2024, 14:46:47 (timezone Europe/Helsinki) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2024, 15:30:25 (timezone Europe/Helsinki) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
